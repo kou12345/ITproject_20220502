@@ -1,7 +1,12 @@
 h1 {
-    margin: 0 auto;
+    text-align: center;
+    font-size: xxx-large;
 }
 
 body {
     background-color: aliceblue;
+}
+
+.img_sdgs {
+    text-align: center;
 }
