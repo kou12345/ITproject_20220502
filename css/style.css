@@ -7,6 +7,10 @@ body {
     background-color: aliceblue;
 }
 
-.img_sdgs {
+#img_sdgs {
+    text-align: center;
+}
+
+#go_to_quiz_btn {
     text-align: center;
 }
