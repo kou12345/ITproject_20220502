@@ -6,28 +6,3 @@ h1 {
 body {
     background-color: aliceblue;
 }
-
-#img-sdgs {
-    text-align: center;
-}
-
-#btn-flat-border {
-    /* text-align: center; */
-    display: inline-block;
-    padding: 0.3em 1em;
-    text-decoration: none;
-    color: #67c5ff;
-    border: solid 2px #67c5ff;
-    border-radius: 3px;
-    transition: .4s;
-    background-color: white;
-}
-
-#btn-flat-border:hover {
-    background: #67c5ff;
-    color: white;
-}
-
-.btn-center {
-    text-align: center;
-}
